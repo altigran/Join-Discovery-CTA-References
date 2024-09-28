@@ -3,6 +3,7 @@
 This repository is designed to maintain a curated list of references related to semantic table annotation, dataset discovery, and semantic join discovery. The included references span various topics such as cloud data warehouses, data lakes, column type annotation, and knowledge graph integration for tabular data.
 
 ### Join Discovery
+- **[Liu@HILDA-SIGMOD24]** Junfei Liu, Shaotong Sun, Fatemeh Nargesian: Causal Dataset Discovery with Large Language Models. HILDA@SIGMOD 2024: 1-8
 - **[Deng@PVLDB24]** **(LakeBench)** Yuhao Deng et al.: [LakeBench: A Benchmark for Discovering Joinable and Unionable Tables in Data Lakes](https://www.vldb.org/pvldb/vol17/p1925-chai.pdf). Proc. VLDB Endow. 17(8): 1925-1938 (2024)
 - **[Dong@PVLDB23]** **(DeepJoin)** Yuyang Dong, Chuan Xiao, Takuma Nozawa, Masafumi Enomoto, Masafumi Oyamada:
 [DeepJoin: Joinable Table Discovery with Pre-trained Language Models](https://www.vldb.org/pvldb/vol16/p2458-dong.pdf). Proc. VLDB Endow. 16(10): 2458-2470 (2023) CoRR abs/2212.07588 (2022)
