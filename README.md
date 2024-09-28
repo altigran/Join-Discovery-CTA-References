@@ -33,8 +33,8 @@ This repository is designed to maintain a curated list of references related to 
 -  **Semantic Web Challenge on Tabular Data to Knowledge Graph Matching**
 	- SemTab: Semantic Web Challenge on Tabular Data to Knowledge Graph Matching - https://www.cs.ox.ac.uk/isg/challenges/sem-tab/
 	-  Vishvapalsinhji Ramsinh Parmar, Alsayed Algergawy: [DREIFLUSS: A Minimalist Approach for Table Matching](https://www.csd.uoc.gr/~vefthym/SemTab2023/paper4.pdf). SemTab@ISWC 2023: 50-60
+   	- Ioannis Dasoulas, Duo Yang, Xuemin Duan, Anastasia Dimou: [TorchicTab: Semantic Table Annotation with Wikidata and Language Models](https://lirias.kuleuven.be/retrieve/733695). SemTab@ISWC 2023: 21-37
 	- Viet-Phi Huynh, Yoan Chabot, Thomas Labbé, Jixiong Liu, Raphaël Troncy: [From Heuristics to Language Models: A Journey Through the Universe of Semantic Table Interpretation with DAGOBAH](https://hal.science/hal-04170873/document). SemTab@ISWC 2022: 45-58
-	- - Ioannis Dasoulas, Duo Yang, Xuemin Duan, Anastasia Dimou: [TorchicTab: Semantic Table Annotation with Wikidata and Language Models](https://lirias.kuleuven.be/retrieve/733695). SemTab@ISWC 2023: 21-37
 	- Keti Korini, Ralph Peeters, Christian Bizer: [SOTAB: The WDC Schema.org Table Annotation Benchmark](https://madoc.bib.uni-mannheim.de/63868/1/paper1.pdf). SemTab@ISWC 2022: 14-19
 	- Phuc Nguyen, Ikuya Yamada, Natthawut Kertkeidkachorn, Ryutaro Ichise, Hideaki Takeda: [MTab4Wikidata at SemTab 2020: Tabular Data Annotation with Wikidata](https://ceur-ws.org/Vol-2775/paper9.pdf?ref=https://githubhelp.com). SemTab@ISWC 2020: 86-95
 	- Nora Abdelmageed, Sirko Schindler: [JenTab: Matching Tabular Data to Knowledge Graphs](https://ceur-ws.org/Vol-2775/paper4.pdf). SemTab@ISWC 2020: 40-49
