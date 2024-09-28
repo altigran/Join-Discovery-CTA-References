@@ -18,7 +18,7 @@ This repository is designed to maintain a curated list of references related to 
 ### Table Annotation
 - **Table Annotation**
 	- Benjamin Feuer, Yurong Liu, Chinmay Hegde, Juliana Freire: [ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models](https://arxiv.org/pdf/2310.18208). **Proc. VLDB Endow. 17(9)**: 2279-2292 (2024). CoRR abs/2310.18208 (2023)
- -  Keti Korini, Christian Bizer: [Column Type Annotation using ChatGPT](https://arxiv.org/pdf/2306.00745). **VLDB Workshops 2023** CoRR abs/2306.00745 (2023)
+ 	-  Keti Korini, Christian Bizer: [Column Type Annotation using ChatGPT](https://arxiv.org/pdf/2306.00745). **VLDB Workshops 2023** CoRR abs/2306.00745 (2023)
 	- Phuc Nguyen, Natthawut Kertkeidkachorn, Ryutaro Ichise, Hideaki Takeda: [MTab4D: Semantic annotation of tabular data with DBpedia](https://content.iospress.com/download/semantic-web/sw223098?id=semantic-web%2Fsw223098). Semantic Web, vol. Pre-press, no. Pre-press, pp. 1-25, 2022.
 	- Udayan Khurana, Sainyam Galhotra: [Semantic Concept Annotation for Tabular Data](https://dl.acm.org/doi/abs/10.1145/3459637.3482295). CIKM 2021: 844-853
 	- Dorodnykh N.O., Yurin A.Yu. **[TabbyLD: A Tool for Semantic Interpretation of Spreadsheets Data](https://link.springer.com/chapter/10.1007/978-3-030-68527-0_20).** Communications in Computer and Information Science. Modelling and Development of Intelligent Systems (MDIS 2020), 2021, Vol. 1341, P. 315-333. DOI: 10.1007/978-3-030-68527-0_20
