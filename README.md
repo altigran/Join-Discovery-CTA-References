@@ -5,7 +5,8 @@ This repository is designed to maintain a curated list of references related to 
 ### Join Discovery
 - **[Deng@PVLDB24]** Yuhao Deng et al.: [LakeBench: A Benchmark for Discovering Joinable and Unionable Tables in Data Lakes](https://www.vldb.org/pvldb/vol17/p1925-chai.pdf). Proc. VLDB Endow. 17(8): 1925-1938 (2024)
 - **[Cong@CIDR23]** Tianji Cong, James Gale, Jason Frantz, H. V. Jagadish, Çağatay Demiralp, [WarpGate: A Semantic Join Discovery System for Cloud DataWarehouses](https://arxiv.org/pdf/2212.14155) CIDR, 2023. arXiv:2212.14155 
-- **[Dong@ICDE21]** Yuyang Dong, Kunihiro Takeoka, Chuan Xiao, Masafumi Oyamada:[Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach](https://arxiv.org/pdf/2010.13273)  ICDE (2021) and CoRR abs/2010.13273 
+- **[Dong@ICDE21]** Yuyang Dong, Kunihiro Takeoka, Chuan Xiao, Masafumi Oyamada:[Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach](https://arxiv.org/pdf/2010.13273)  ICDE (2021) and CoRR abs/2010.13273
+- Raul Castro Fernandez, Ziawasch Abedjan, Famien Koko, Gina Yuan, Samuel Madden, and Michael Stonebraker. (2018). [Aurum: A Data Discovery System](https://ieeexplore.ieee.org/iel7/8476188/8509221/08509315.pdf). In 34th IEEE International Conference on Data Engineering (ICDE 2018). IEEE Computer Society, 1001–1012 .
 
 ### Union Discovery
 - **[Fan@PVLDB23]** Grace Fan, Jin Wang, Yuliang Li, Dan Zhang, Renée J. Miller: [Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning](https://arxiv.org/pdf/2210.01922). Proc. VLDB Endow. 16(7): 1726-1739 (2023)
