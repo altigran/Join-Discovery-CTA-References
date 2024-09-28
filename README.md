@@ -26,7 +26,7 @@ This repository is designed to maintain a curated list of references related to 
 	- Jiaoyan Chen, Ernesto Jiménez-Ruiz, Ian Horrocks, Charles Sutton: [Learning Semantic Annotations for Tabular Data](https://arxiv.org/pdf/1906.00781). IJCAI 2019: 2088-2094 CoRR abs/1906.00781 (2019)
 
 - **Extended Semantic Web Conference** (ESWC)
-	-  Keti Korini, Christian Bizer: [Column Property Annotation using Large Language Models](https://2024.eswc-conferences.org/wp-content/uploads/2024/05/77770060.pdf) **Extended Semantic Web Conference** (ESWC) 2024
+	-  **[Korini@ESWC24]** **(CPA-LLM)** Keti Korini, Christian Bizer: [Column Property Annotation using Large Language Models](https://2024.eswc-conferences.org/wp-content/uploads/2024/05/77770060.pdf) **Extended Semantic Web Conference** (ESWC) 2024
 	- Marco Cremaschi, Anisa Rula, Alessandra Siano, Flavio De Paoli: [MantisTable: A Tool for Creating Semantic Annotations on Tabular Data](https://boa.unimib.it/bitstream/10281/246778/2/MantisTable_tool.pdf). ESWC (Satellite Events) 2019: 18-23
 	- Nora Abdelmageed, Sirko Schindler: [JenTab: A Toolkit for Semantic Table Annotations](https://openreview.net/pdf?id=aZUGsoLdpa). KGCW@ESWC 2021
 	
