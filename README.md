@@ -3,11 +3,10 @@
 This repository is designed to maintain a curated list of references related to semantic table annotation, dataset discovery, and semantic join discovery. The included references span various topics such as cloud data warehouses, data lakes, column type annotation, and knowledge graph integration for tabular data.
 
 ### Join Discovery
-- Yuhao Deng et al.: [LakeBench: A Benchmark for Discovering Joinable and Unionable Tables in Data Lakes](https://www.vldb.org/pvldb/vol17/p1925-chai.pdf). Proc. VLDB Endow. 17(8): 1925-1938 (2024)
-- Tianji Cong, James Gale, Jason Frantz, H. V. Jagadish, Çağatay Demiralp, [WarpGate: A Semantic Join Discovery System for Cloud DataWarehouses](https://arxiv.org/pdf/2212.14155) CIDR, 2023. arXiv:2212.14155 
-- Grace Fan, Jin Wang, Yuliang Li, Dan Zhang, Renée J. Miller: [Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning](https://arxiv.org/pdf/2210.01922). Proc. VLDB Endow. 16(7): 1726-1739 (2023)
-- Yuyang Dong, Kunihiro Takeoka, Chuan Xiao, Masafumi Oyamada:  
-- [Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach](https://arxiv.org/pdf/2010.13273) CoRR abs/2010.13273 (2020)
+- **[Deng@PVLDB24]** Yuhao Deng et al.: [LakeBench: A Benchmark for Discovering Joinable and Unionable Tables in Data Lakes](https://www.vldb.org/pvldb/vol17/p1925-chai.pdf). Proc. VLDB Endow. 17(8): 1925-1938 (2024)
+- **[Cong@CIDR23]** Tianji Cong, James Gale, Jason Frantz, H. V. Jagadish, Çağatay Demiralp, [WarpGate: A Semantic Join Discovery System for Cloud DataWarehouses](https://arxiv.org/pdf/2212.14155) CIDR, 2023. arXiv:2212.14155 
+- **[Fan@PVLDB23]** Grace Fan, Jin Wang, Yuliang Li, Dan Zhang, Renée J. Miller: [Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning](https://arxiv.org/pdf/2210.01922). Proc. VLDB Endow. 16(7): 1726-1739 (2023)
+- **[Dong@ArXiv20] Yuyang Dong, Kunihiro Takeoka, Chuan Xiao, Masafumi Oyamada:[Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach](https://arxiv.org/pdf/2010.13273) CoRR abs/2010.13273 (2020)
 	
 ### Table Annotation
 - **Table Annotation**
