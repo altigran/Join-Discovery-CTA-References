@@ -1,6 +1,9 @@
-## Join Discovery & CTA References
+## Table Discovery & CTA References
 
 This repository is designed to maintain a curated list of references related to semantic table annotation, dataset discovery, and semantic join discovery. The included references span various topics such as cloud data warehouses, data lakes, column type annotation, and knowledge graph integration for tabular data.
+
+### Table Discovery
+- [Fan@SIGMOD32] Tutorial - Grace Fan, Jin Wang, Yuliang Li, and Renée J. Miller. 2023. [Table Discovery in Data Lakes: State-of-the-art and Future Directions.](https://dl.acm.org/doi/pdf/10.1145/3555041.3589409) Tutorial.  [Slides](https://github.com/northeastern-datalab/table-discovery-tutorial/blob/main/table-discovery-slides.pdf) [GitHub](https://northeastern-datalab.github.io/table-discovery-tutorial/). SIGMOD'2023
 
 ### Join Discovery
 - **[Liu@HILDA-SIGMOD24]** Junfei Liu, Shaotong Sun, Fatemeh Nargesian: [Causal Dataset Discovery with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3665939.3665968). HILDA@SIGMOD 2024: 1-8
@@ -14,6 +17,13 @@ This repository is designed to maintain a curated list of references related to 
 
 ### Union Discovery
 - **[Fan@PVLDB23]** **(Starmie)** Grace Fan, Jin Wang, Yuliang Li, Dan Zhang, Renée J. Miller: [Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning](https://arxiv.org/pdf/2210.01922). Proc. VLDB Endow. 16(7): 1726-1739 (2023)
+
+### Keyword-Based Table Search
+- [Cafarela@VLDB09] (**Octopus**) Michael J. Cafarella, Alon Y. Halevy, and Nodira Khoussainova. 2009. Data Integration for the Relational Web. Proc. VLDB Endow. 2, 1 (2009), 1090–1101. https://doi.org/10.14778/1687627.1687750
+- [Halevy@SIGMOD16] (**Goods**) Alon Y. Halevy, Flip Korn, Natalya Fridman Noy, Christopher Olston, Neoklis Polyzotis, Sudip Roy, and Steven Euijong Whang. 2016. Goods: Organizing Google’s Datasets. In Proceedings of the 2016 International Conference on Management of Data, SIGMOD Conference 2016, San Francisco, CA, USA, June 26 - July 01, 2016. ACM, 795–806. https://doi.org/10.1145/2882903.2903730
+- [Wang@SIGMOD19] (**SmartCrawl**) Pei Wang, Ryan Shea, Jiannan Wang, and Eugene Wu. 2019. Progressive Deep Web Crawling Through Keyword Queries For Data Enrichment. In Proceedings of the 2019 International Conference on Management of Data, SIGMOD Conference 2019, Amsterdam, The Netherlands, June 30 - July 5, 2019 https://doi.org/10.1145/3299869.3319899
+- [Brickley@WWW19] (**Google Dataset Search**) Dan Brickley, Matthew Burgess, Natasha F. Noy: [Google Dataset Search: Building a search engine for datasets in an open Web ecosystem](https://dl.acm.org/doi/pdf/10.1145/3308558.3313685). WWW 2019: 1365-1375
+
  
 ### Table Annotation
 - **Table Annotation**
