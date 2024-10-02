@@ -3,7 +3,7 @@
 This repository is designed to maintain a curated list of references related to semantic table annotation, dataset discovery, and semantic join discovery. The included references span various topics such as cloud data warehouses, data lakes, column type annotation, and knowledge graph integration for tabular data.
 
 ### Table Discovery
-- **[Fan@SIGMOD32]** **Tutorial** - Grace Fan, Jin Wang, Yuliang Li, and Renée J. Miller. 2023. [Table Discovery in Data Lakes: State-of-the-art and Future Directions.](https://dl.acm.org/doi/pdf/10.1145/3555041.3589409) Tutorial.  [Slides](https://github.com/northeastern-datalab/table-discovery-tutorial/blob/main/table-discovery-slides.pdf) [GitHub](https://northeastern-datalab.github.io/table-discovery-tutorial/). SIGMOD'2023
+- **[Fan@SIGMOD23]** **Tutorial** - Grace Fan, Jin Wang, Yuliang Li, and Renée J. Miller. 2023. [Table Discovery in Data Lakes: State-of-the-art and Future Directions.](https://dl.acm.org/doi/pdf/10.1145/3555041.3589409) Tutorial.  [Slides](https://github.com/northeastern-datalab/table-discovery-tutorial/blob/main/table-discovery-slides.pdf) [GitHub](https://northeastern-datalab.github.io/table-discovery-tutorial/). SIGMOD'2023
 
 ### Join Discovery
 - **[Liu@HILDA-SIGMOD24]** Junfei Liu, Shaotong Sun, Fatemeh Nargesian: [Causal Dataset Discovery with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3665939.3665968). HILDA@SIGMOD 2024: 1-8
