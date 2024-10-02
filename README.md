@@ -3,7 +3,7 @@
 This repository is designed to maintain a curated list of references related to semantic table annotation, dataset discovery, and semantic join discovery. The included references span various topics such as cloud data warehouses, data lakes, column type annotation, and knowledge graph integration for tabular data.
 
 ### Table Discovery
-- [Fan@SIGMOD32] Tutorial - Grace Fan, Jin Wang, Yuliang Li, and Renée J. Miller. 2023. [Table Discovery in Data Lakes: State-of-the-art and Future Directions.](https://dl.acm.org/doi/pdf/10.1145/3555041.3589409) Tutorial.  [Slides](https://github.com/northeastern-datalab/table-discovery-tutorial/blob/main/table-discovery-slides.pdf) [GitHub](https://northeastern-datalab.github.io/table-discovery-tutorial/). SIGMOD'2023
+- **[Fan@SIGMOD32]** **Tutorial** - Grace Fan, Jin Wang, Yuliang Li, and Renée J. Miller. 2023. [Table Discovery in Data Lakes: State-of-the-art and Future Directions.](https://dl.acm.org/doi/pdf/10.1145/3555041.3589409) Tutorial.  [Slides](https://github.com/northeastern-datalab/table-discovery-tutorial/blob/main/table-discovery-slides.pdf) [GitHub](https://northeastern-datalab.github.io/table-discovery-tutorial/). SIGMOD'2023
 
 ### Join Discovery
 - **[Liu@HILDA-SIGMOD24]** Junfei Liu, Shaotong Sun, Fatemeh Nargesian: [Causal Dataset Discovery with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3665939.3665968). HILDA@SIGMOD 2024: 1-8
@@ -19,16 +19,16 @@ This repository is designed to maintain a curated list of references related to 
 - **[Fan@PVLDB23]** **(Starmie)** Grace Fan, Jin Wang, Yuliang Li, Dan Zhang, Renée J. Miller: [Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning](https://arxiv.org/pdf/2210.01922). Proc. VLDB Endow. 16(7): 1726-1739 (2023)
 
 ### Keyword-Based Table Search
-- [Cafarela@VLDB09] (**Octopus**) Michael J. Cafarella, Alon Y. Halevy, and Nodira Khoussainova. 2009. Data Integration for the Relational Web. Proc. VLDB Endow. 2, 1 (2009), 1090–1101. https://doi.org/10.14778/1687627.1687750
-- [Halevy@SIGMOD16] (**Goods**) Alon Y. Halevy, Flip Korn, Natalya Fridman Noy, Christopher Olston, Neoklis Polyzotis, Sudip Roy, and Steven Euijong Whang. 2016. Goods: Organizing Google’s Datasets. In Proceedings of the 2016 International Conference on Management of Data, SIGMOD Conference 2016, San Francisco, CA, USA, June 26 - July 01, 2016. ACM, 795–806. https://doi.org/10.1145/2882903.2903730
-- [Wang@SIGMOD19] (**SmartCrawl**) Pei Wang, Ryan Shea, Jiannan Wang, and Eugene Wu. 2019. Progressive Deep Web Crawling Through Keyword Queries For Data Enrichment. In Proceedings of the 2019 International Conference on Management of Data, SIGMOD Conference 2019, Amsterdam, The Netherlands, June 30 - July 5, 2019 https://doi.org/10.1145/3299869.3319899
-- [Brickley@WWW19] (**Google Dataset Search**) Dan Brickley, Matthew Burgess, Natasha F. Noy: [Google Dataset Search: Building a search engine for datasets in an open Web ecosystem](https://dl.acm.org/doi/pdf/10.1145/3308558.3313685). WWW 2019: 1365-1375
+- **[Cafarela@VLDB09]** (**Octopus**) Michael J. Cafarella, Alon Y. Halevy, and Nodira Khoussainova. 2009. Data Integration for the Relational Web. Proc. VLDB Endow. 2, 1 (2009), 1090–1101. https://doi.org/10.14778/1687627.1687750
+- **[Halevy@SIGMOD16]** (**Goods**) Alon Y. Halevy, Flip Korn, Natalya Fridman Noy, Christopher Olston, Neoklis Polyzotis, Sudip Roy, and Steven Euijong Whang. 2016. Goods: Organizing Google’s Datasets. In Proceedings of the 2016 International Conference on Management of Data, SIGMOD Conference 2016, San Francisco, CA, USA, June 26 - July 01, 2016. ACM, 795–806. https://doi.org/10.1145/2882903.2903730
+- **[Wang@SIGMOD19]** (**SmartCrawl**) Pei Wang, Ryan Shea, Jiannan Wang, and Eugene Wu. 2019. Progressive Deep Web Crawling Through Keyword Queries For Data Enrichment. In Proceedings of the 2019 International Conference on Management of Data, SIGMOD Conference 2019, Amsterdam, The Netherlands, June 30 - July 5, 2019 https://doi.org/10.1145/3299869.3319899
+- **[Brickley@WWW19]** (**Google Dataset Search**) Dan Brickley, Matthew Burgess, Natasha F. Noy: [Google Dataset Search: Building a search engine for datasets in an open Web ecosystem](https://dl.acm.org/doi/pdf/10.1145/3308558.3313685). WWW 2019: 1365-1375
 
  
 ### Table Annotation
 - **Table Annotation**
 	- **[Feuer@PVLDB24]** **(ArcheType)**  Benjamin Feuer, Yurong Liu, Chinmay Hegde, Juliana Freire: [ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models](https://arxiv.org/pdf/2310.18208). **Proc. VLDB Endow. 17(9)**: 2279-2292 (2024). CoRR abs/2310.18208 (2023)
- 	- **[Korini@Tada-VLDB23]** **(CTA-GPT)**  Keti Korini, Christian Bizer: [Column Type Annotation using ChatGPT](https://arxiv.org/pdf/2306.00745). **VLDB Workshops 2023** CoRR abs/2306.00745 (2023)
+	- **[Korini@Tada-VLDB23]** **(CTA-GPT)**  Keti Korini, Christian Bizer: [Column Type Annotation using ChatGPT](https://arxiv.org/pdf/2306.00745). **VLDB Workshops 2023** CoRR abs/2306.00745 (2023)
 	- Phuc Nguyen, Natthawut Kertkeidkachorn, Ryutaro Ichise, Hideaki Takeda: [MTab4D: Semantic annotation of tabular data with DBpedia](https://content.iospress.com/download/semantic-web/sw223098?id=semantic-web%2Fsw223098). Semantic Web, vol. Pre-press, no. Pre-press, pp. 1-25, 2022.
 	- Udayan Khurana, Sainyam Galhotra: [Semantic Concept Annotation for Tabular Data](https://dl.acm.org/doi/abs/10.1145/3459637.3482295). CIKM 2021: 844-853
 	- Dorodnykh N.O., Yurin A.Yu. **[TabbyLD: A Tool for Semantic Interpretation of Spreadsheets Data](https://link.springer.com/chapter/10.1007/978-3-030-68527-0_20).** Communications in Computer and Information Science. Modelling and Development of Intelligent Systems (MDIS 2020), 2021, Vol. 1341, P. 315-333. DOI: 10.1007/978-3-030-68527-0_20
@@ -43,7 +43,7 @@ This repository is designed to maintain a curated list of references related to 
 -  **Semantic Web Challenge on Tabular Data to Knowledge Graph Matching**
 	- SemTab: Semantic Web Challenge on Tabular Data to Knowledge Graph Matching - https://www.cs.ox.ac.uk/isg/challenges/sem-tab/
 	-  Vishvapalsinhji Ramsinh Parmar, Alsayed Algergawy: [DREIFLUSS: A Minimalist Approach for Table Matching](https://www.csd.uoc.gr/~vefthym/SemTab2023/paper4.pdf). SemTab@ISWC 2023: 50-60
-   	- Ioannis Dasoulas, Duo Yang, Xuemin Duan, Anastasia Dimou: [TorchicTab: Semantic Table Annotation with Wikidata and Language Models](https://lirias.kuleuven.be/retrieve/733695). SemTab@ISWC 2023: 21-37
+	- Ioannis Dasoulas, Duo Yang, Xuemin Duan, Anastasia Dimou: [TorchicTab: Semantic Table Annotation with Wikidata and Language Models](https://lirias.kuleuven.be/retrieve/733695). SemTab@ISWC 2023: 21-37
 	- Viet-Phi Huynh, Yoan Chabot, Thomas Labbé, Jixiong Liu, Raphaël Troncy: [From Heuristics to Language Models: A Journey Through the Universe of Semantic Table Interpretation with DAGOBAH](https://hal.science/hal-04170873/document). SemTab@ISWC 2022: 45-58
 	- Keti Korini, Ralph Peeters, Christian Bizer: [SOTAB: The WDC Schema.org Table Annotation Benchmark](https://madoc.bib.uni-mannheim.de/63868/1/paper1.pdf). SemTab@ISWC 2022: 14-19
 	- Phuc Nguyen, Ikuya Yamada, Natthawut Kertkeidkachorn, Ryutaro Ichise, Hideaki Takeda: [MTab4Wikidata at SemTab 2020: Tabular Data Annotation with Wikidata](https://ceur-ws.org/Vol-2775/paper9.pdf?ref=https://githubhelp.com). SemTab@ISWC 2020: 86-95
